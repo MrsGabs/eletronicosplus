@@ -1,0 +1,13 @@
+.CardGroup{
+    display: flex;
+}
+
+.Cards{
+    width: 18rem; 
+    margin-left: 10px;
+}
+
+.imgProduto{
+    height: 200px;
+    width: 250px;
+}

@@ -1,0 +1,44 @@
+.fundo {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+
+.fundo {
+    background-color: #1b1b1b;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.fundo h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.fundo img {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar {
+    background-color: #1f1f1f;
+}
+
+.navbar a {
+    color: #fff !important;
+    text-decoration: none;
+
+}
+
+.navbar a:hover {
+    color: #fff !important;
+}
+
+.link {
+    margin-right: 15px;
+    text-decoration: none;
+    color: white;
+}
